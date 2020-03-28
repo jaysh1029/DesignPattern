@@ -1,0 +1,13 @@
+E:\Learning\dotnetcore\decorator01\bin\Debug\netcoreapp3.1\decorator01.exe
+E:\Learning\dotnetcore\decorator01\bin\Debug\netcoreapp3.1\decorator01.deps.json
+E:\Learning\dotnetcore\decorator01\bin\Debug\netcoreapp3.1\decorator01.runtimeconfig.json
+E:\Learning\dotnetcore\decorator01\bin\Debug\netcoreapp3.1\decorator01.runtimeconfig.dev.json
+E:\Learning\dotnetcore\decorator01\bin\Debug\netcoreapp3.1\decorator01.dll
+E:\Learning\dotnetcore\decorator01\bin\Debug\netcoreapp3.1\decorator01.pdb
+E:\Learning\dotnetcore\decorator01\obj\Debug\netcoreapp3.1\decorator01.csprojAssemblyReference.cache
+E:\Learning\dotnetcore\decorator01\obj\Debug\netcoreapp3.1\decorator01.csproj.CoreCompileInputs.cache
+E:\Learning\dotnetcore\decorator01\obj\Debug\netcoreapp3.1\decorator01.AssemblyInfoInputs.cache
+E:\Learning\dotnetcore\decorator01\obj\Debug\netcoreapp3.1\decorator01.AssemblyInfo.cs
+E:\Learning\dotnetcore\decorator01\obj\Debug\netcoreapp3.1\decorator01.dll
+E:\Learning\dotnetcore\decorator01\obj\Debug\netcoreapp3.1\decorator01.pdb
+E:\Learning\dotnetcore\decorator01\obj\Debug\netcoreapp3.1\decorator01.genruntimeconfig.cache

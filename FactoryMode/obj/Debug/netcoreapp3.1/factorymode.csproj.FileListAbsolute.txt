@@ -1,0 +1,13 @@
+E:\Learning\dotnetcore\factorymode\bin\Debug\netcoreapp3.1\factorymode.exe
+E:\Learning\dotnetcore\factorymode\bin\Debug\netcoreapp3.1\factorymode.deps.json
+E:\Learning\dotnetcore\factorymode\bin\Debug\netcoreapp3.1\factorymode.runtimeconfig.json
+E:\Learning\dotnetcore\factorymode\bin\Debug\netcoreapp3.1\factorymode.runtimeconfig.dev.json
+E:\Learning\dotnetcore\factorymode\bin\Debug\netcoreapp3.1\factorymode.dll
+E:\Learning\dotnetcore\factorymode\bin\Debug\netcoreapp3.1\factorymode.pdb
+E:\Learning\dotnetcore\factorymode\obj\Debug\netcoreapp3.1\factorymode.csprojAssemblyReference.cache
+E:\Learning\dotnetcore\factorymode\obj\Debug\netcoreapp3.1\factorymode.csproj.CoreCompileInputs.cache
+E:\Learning\dotnetcore\factorymode\obj\Debug\netcoreapp3.1\factorymode.AssemblyInfoInputs.cache
+E:\Learning\dotnetcore\factorymode\obj\Debug\netcoreapp3.1\factorymode.AssemblyInfo.cs
+E:\Learning\dotnetcore\factorymode\obj\Debug\netcoreapp3.1\factorymode.dll
+E:\Learning\dotnetcore\factorymode\obj\Debug\netcoreapp3.1\factorymode.pdb
+E:\Learning\dotnetcore\factorymode\obj\Debug\netcoreapp3.1\factorymode.genruntimeconfig.cache
