@@ -1,0 +1,11 @@
+D:\study\netcore\calculate001\bin\Debug\netcoreapp2.0\calculate001.deps.json
+D:\study\netcore\calculate001\bin\Debug\netcoreapp2.0\calculate001.runtimeconfig.json
+D:\study\netcore\calculate001\bin\Debug\netcoreapp2.0\calculate001.runtimeconfig.dev.json
+D:\study\netcore\calculate001\bin\Debug\netcoreapp2.0\calculate001.dll
+D:\study\netcore\calculate001\bin\Debug\netcoreapp2.0\calculate001.pdb
+D:\study\netcore\calculate001\obj\Debug\netcoreapp2.0\calculate001.csprojAssemblyReference.cache
+D:\study\netcore\calculate001\obj\Debug\netcoreapp2.0\calculate001.csproj.CoreCompileInputs.cache
+D:\study\netcore\calculate001\obj\Debug\netcoreapp2.0\calculate001.AssemblyInfoInputs.cache
+D:\study\netcore\calculate001\obj\Debug\netcoreapp2.0\calculate001.AssemblyInfo.cs
+D:\study\netcore\calculate001\obj\Debug\netcoreapp2.0\calculate001.dll
+D:\study\netcore\calculate001\obj\Debug\netcoreapp2.0\calculate001.pdb
