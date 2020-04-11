@@ -1,0 +1,13 @@
+E:\Learning\dotnetcore\easyFactory\bin\Debug\netcoreapp3.1\easyFactory.exe
+E:\Learning\dotnetcore\easyFactory\bin\Debug\netcoreapp3.1\easyFactory.deps.json
+E:\Learning\dotnetcore\easyFactory\bin\Debug\netcoreapp3.1\easyFactory.runtimeconfig.json
+E:\Learning\dotnetcore\easyFactory\bin\Debug\netcoreapp3.1\easyFactory.runtimeconfig.dev.json
+E:\Learning\dotnetcore\easyFactory\bin\Debug\netcoreapp3.1\easyFactory.dll
+E:\Learning\dotnetcore\easyFactory\bin\Debug\netcoreapp3.1\easyFactory.pdb
+E:\Learning\dotnetcore\easyFactory\obj\Debug\netcoreapp3.1\easyFactory.csprojAssemblyReference.cache
+E:\Learning\dotnetcore\easyFactory\obj\Debug\netcoreapp3.1\easyFactory.AssemblyInfoInputs.cache
+E:\Learning\dotnetcore\easyFactory\obj\Debug\netcoreapp3.1\easyFactory.AssemblyInfo.cs
+E:\Learning\dotnetcore\easyFactory\obj\Debug\netcoreapp3.1\easyFactory.csproj.CoreCompileInputs.cache
+E:\Learning\dotnetcore\easyFactory\obj\Debug\netcoreapp3.1\easyFactory.dll
+E:\Learning\dotnetcore\easyFactory\obj\Debug\netcoreapp3.1\easyFactory.pdb
+E:\Learning\dotnetcore\easyFactory\obj\Debug\netcoreapp3.1\easyFactory.genruntimeconfig.cache
