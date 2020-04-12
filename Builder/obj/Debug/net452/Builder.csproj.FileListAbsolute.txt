@@ -1,9 +1,0 @@
-E:\Learning\dotnetcore\Builder\bin\Debug\net452\Builder.exe.config
-E:\Learning\dotnetcore\Builder\bin\Debug\net452\Builder.exe
-E:\Learning\dotnetcore\Builder\bin\Debug\net452\Builder.pdb
-E:\Learning\dotnetcore\Builder\obj\Debug\net452\Builder.csprojAssemblyReference.cache
-E:\Learning\dotnetcore\Builder\obj\Debug\net452\Builder.csproj.CoreCompileInputs.cache
-E:\Learning\dotnetcore\Builder\obj\Debug\net452\Builder.AssemblyInfoInputs.cache
-E:\Learning\dotnetcore\Builder\obj\Debug\net452\Builder.AssemblyInfo.cs
-E:\Learning\dotnetcore\Builder\obj\Debug\net452\Builder.exe
-E:\Learning\dotnetcore\Builder\obj\Debug\net452\Builder.pdb
